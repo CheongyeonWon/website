@@ -10,18 +10,17 @@
   }
 }
 
-// Make the section titles (like "Biography") smaller
-.home-section {
-  .section-heading {
-    h1 {
-      font-size: 1.75rem;  // Reduce section title size
-    }
+// Make Biography title same size as Skills and Experience
+// The about.biography block uses a larger title by default, reduce it
+.wg-about-biography .article-style {
+  h2 {
+    font-size: 1.5rem;
   }
 }
 
-// Alternative: target the about section title specifically
-#about {
-  .section-heading h1 {
-    font-size: 1.5rem;
-  }
+// Target the Biography section heading specifically
+#about .section-heading h1,
+.wg-about-biography h1 {
+  font-size: 1.25rem;  // Match Skills/Experience size
+  font-weight: 600;
 }
