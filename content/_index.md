@@ -120,14 +120,14 @@ sections:
       text: |-
         E-mail.
       # Contact (add or remove contact options as necessary)
-      email: cheongyeon.won@monash.edu 
+      email: clearlake@ssu.ac.kr
       address:
         street: 
-        city: 900 Dandenong Rd, Caulfield
-        region: VIC
+        city: 369 Sangdo-ro, Dongjak-gu
+        region: Seoul
         postcode: '3145'
-        country: Australia
-        country_code: AU
+        country: South Korea
+        country_code: KR
      # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 #      office_hours:
 #        - 'Monday 10:00 to 13:00'
