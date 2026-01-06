@@ -5,7 +5,7 @@ title: "Job Reallocation in Korean Manufacturing: 1984-2014"
 authors: 
 - Cheongyeon Won
 - Changkeun Lee
-date: 2021-02-29T00:15:05+10:00
+date: 2021-04-29T00:15:05+10:00
 doi: "10.1016/j.asieco.2021.101295"
 tags:
     - Labour and Industry
