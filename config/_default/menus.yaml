@@ -21,7 +21,6 @@ main:
     weight: 40
 
 # Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-#  - name: CV
-#    url: uploads/resume.pdf
-#    weight: 70
+  - name: CV
+    url: https://www.dropbox.com/scl/fi/cii55euei48xfwdll42a5/CV-Won.pdf?rlkey=e4nk68mgvuv2kap606krelw74&dl=0
+    weight: 70
