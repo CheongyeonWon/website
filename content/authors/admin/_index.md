@@ -117,7 +117,7 @@ social:
     link: https://www.dropbox.com/scl/fi/cii55euei48xfwdll42a5/CV-Won.pdf?rlkey=e4nk68mgvuv2kap606krelw74&dl=0
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'cheongyeon.won@monash.edu'
+email: 'clearlake@ssu.ac.kr'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

@@ -122,10 +122,10 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: clearlake@ssu.ac.kr
       address:
-        street: 
-        city: 369 Sangdo-ro, Dongjak-gu
+        street: 369 Sangdo-ro
+        city: Dongjak-gu
         region: Seoul
-        postcode: '3145'
+        postcode: '06978'
         country: South Korea
         country_code: KR
      # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
