@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
+    description: 'Cheongyeon Won - Assistant Professor at Soongsil University. Research in Applied Microeconomics, Cliometrics, Labour Economics, and Development Economics.'
     twitter: false
   analytics:
     google_analytics: ''
@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/CheongyeonWon/website'
     content_dir: content
     branch: main
   avatar:
